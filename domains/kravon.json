@@ -1,0 +1,9 @@
+{
+  "description": "Kravon",
+  "owner": {brotheymadeanedit-web
+    "username": "brotheymadeanedit-web"
+  },
+  "records": {
+    "CNAME": "brotheymadeanedit-web.github.io"
+  }
+}
