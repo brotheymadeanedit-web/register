@@ -1,0 +1,9 @@
+{
+  "description": "Kravon Cloud Minecraft Hosting",
+  "owner": {
+    "username": "brotheymadeanedit-web"
+  },
+  "record": {
+    "CNAME": "brotheymadeanedit-web.github.io"
+  }
+}
